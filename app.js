@@ -7,3 +7,7 @@ const watermelon = document.getElementById('watermelon');
 soda.addEventListener('click', () => {
     soda.classList.toggle('picked');
 });
+
+cheese.addEventListener('click', () => {
+    cheese.classList.toggle('picked');
+});
